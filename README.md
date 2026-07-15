@@ -2,10 +2,6 @@
 
 A research-oriented implementation exploring **dynamic inference strategies** for Residual Networks (ResNet). Instead of executing every residual block for every input, this project investigates how an auxiliary decision module can coordinate the inference process by selectively activating network blocks according to the input complexity.
 
-> **Note**
->
-> This project is **inspired by the research direction introduced in BlockDrop (CVPR 2018)** and other dynamic neural network approaches. It is **not** an official implementation or reproduction of BlockDrop. The architecture, implementation details, training pipeline, and experimental settings have been redesigned for learning and experimentation purposes.
-
 ---
 
 ## Motivation
